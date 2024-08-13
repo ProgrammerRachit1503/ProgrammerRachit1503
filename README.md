@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=660099&background=FFFFFF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=FF6363FF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Django, Linux** and **Full Stack Web Development**.
