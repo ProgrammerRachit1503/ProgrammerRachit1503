@@ -6,9 +6,6 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6363FF&center=true&vCenter=true&width=440&height=45&lines=A+Passionate+Coder+and+Learner;Python+Developer;Lazy+Developer" alt="Typing SVG" /></a>
 </h1>
-
-<br>
-
 <h2 align="center"><br>GITHUB TROPHIES🏆</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ProgrammerRachit1503&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="ProgrammerRachit1503" /></a>
