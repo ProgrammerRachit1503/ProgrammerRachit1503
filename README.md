@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Django, Linux** and **MERN Stack Web Development**.
 - 📫 How to reach me: **rachitjain75.rj75@gmail.com**
 
-<h2 align="center"><br>Languages and Tools ⛏️</h2>
+<h2 align="center">Languages and Tools ⛏️</h2>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
@@ -32,3 +32,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
     <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
 </div>
+
+<h2 align="center">Languages Most Used</h2>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerRachit1503&theme=dark">
