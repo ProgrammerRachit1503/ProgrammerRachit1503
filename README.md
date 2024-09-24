@@ -1,19 +1,18 @@
 <h1 align="center"><b>Hi there<b><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"></picture>, I'm <br>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grey+Qo&size=44&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=440&height=135&lines=Rachit+Jain;aka+ProgrammerRachit1503&repeat=false" alt="Typing SVG" /></a>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6363FF&center=true&vCenter=true&width=440&height=45&lines=A+Passionate+Coder+and+Learner;Python+Developer;Lazy+Developer" alt="Typing SVG" /></a>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"></picture>, I'm 
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grey+Qo&size=44&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=440&height=135&lines=Rachit+Jain;aka+ProgrammerRachit1503&repeat=false" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6363FF&center=true&vCenter=true&width=440&height=45&lines=A+Passionate+Coder+and+Learner;Python+Developer;Lazy+Developer" alt="Typing SVG" /></a>
 </h1>
 <h2 align="center"><br>GITHUB TROPHIES🏆</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ProgrammerRachit1503&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="ProgrammerRachit1503" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=ProgrammerRachit1503&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="ProgrammerRachit1503">
 
 <br>
 
 <h1 align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=FF6363FF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=FF6363FF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Django, Linux** and **MERN Stack Web Development**.
